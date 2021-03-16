@@ -1,0 +1,14 @@
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: aqua;
+    background-color: #000;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #000;
+    background-color: aqua;
+    padding: 20px;
+}
